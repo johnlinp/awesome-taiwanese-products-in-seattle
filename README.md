@@ -17,6 +17,12 @@ This is an awesome list of Taiwanese products that can be found in Seattle super
 - [QFC - Emperor Love Matcha Latte](https://www.qfc.com/p/emperor-love-matcha-latte/0471009580869)
 - [Uwajimaya - GINO Instant Lavender Milk Tea](https://www.instacart.com/store/uwajimaya/products/19141942)
 - [Uwajimaya - GINO Milk Tea Powder](https://www.instacart.com/store/uwajimaya/products/273368)
+- [99 Ranch Market - GREENMAX BAG BLACK SESAME POWDER](https://fresh.99ranch.com/products/greenmax-bag-black-sesame-powder)
+- [99 Ranch Market - GREENMAX SC/BAG PPL YAM & BLK SOYBEAN](https://fresh.99ranch.com/products/greenmax-sc-bag-ppl-yam-blk-soybean)
+- [99 Ranch Market - GREENMAX SC/BAG PPL RICE & BLK SSM CEREA](https://fresh.99ranch.com/products/greenmax-sc-bag-ppl-rice-blk-ssm-cereal)
+- [99 Ranch Market - GREENMAX SC/BAG YAM & BLK SESAME CEREAL](https://fresh.99ranch.com/products/greenmax-sc-bag-yam-blk-sesame-cereal)
+- [99 Ranch Market - GREENMAX SC/BAG YAM & MULTI-GRAIN CEREAL](https://fresh.99ranch.com/products/greenmax-sc-bag-yam-multi-grain-cereal-%E9%A6%AC%E7%8E%89%E5%B1%B1%E5%B1%B1%E8%97%A5%E4%BA%94%E6%A6%96%E7%B2%A5)
+- [99 Ranch Market - GREENMAX SC/BAG NUTS CEREAL ADZUKI & PPL](https://fresh.99ranch.com/products/greenmax-sc-bag-nuts-cereal-adzuki-ppl)
 
 ## :tropical_drink: Drink
 
@@ -28,6 +34,12 @@ This is an awesome list of Taiwanese products that can be found in Seattle super
 - [Uwajimaya - T-Grand Assam Brown Sugar Milk Tea](https://www.instacart.com/store/uwajimaya/products/26116008)
 - [99 Ranch Market - I MEI DRINK PLUM 6PK](https://fresh.99ranch.com/products/i-mei-drink-plum)
 - [99 Ranch Market - I MEI PLUM DRINK 1.5L](https://fresh.99ranch.com/products/i-mei-plum-drink-1-5l)
+- [99 Ranch Market - GUDAO PLUM GREEN TEA 600ML](https://fresh.99ranch.com/products/gudao-plum-green-tea)
+- [99 Ranch Market - GUDAO GREEN TEA 600ML](https://fresh.99ranch.com/products/gudao-green-tea)
+- [99 Ranch Market - GUDAO JASMINE GREEN TEA 2L](https://fresh.99ranch.com/products/gudao-jasmine-green-tea-2l)
+- [99 Ranch Market - GUDAO PLUM DRINK 2L](https://fresh.99ranch.com/products/gudao-plum-drink-2l)
+- [99 Ranch Market - K/CHUAN JASMINE HONEY TEA](https://fresh.99ranch.com/products/k-chuan-jasmine-honey-tea)
+- [99 Ranch Market - K/CHUAN L/P TEA GREEN TEA](https://fresh.99ranch.com/products/k-chuan-l-p-tea-green-tea)
 
 ## :snowflake: Frozen Food
 
