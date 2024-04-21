@@ -116,3 +116,9 @@ This is an awesome list of Taiwanese products that can be found in Seattle super
 - [99 Ranch Market - TOMAX SPICE POUCH TEA EGG](https://fresh.99ranch.com/products/tomax-spice-pouch-tea-egg)
 - [99 Ranch Market - TOMAX SPICE POUCH PORK](https://fresh.99ranch.com/products/tomax-spice-pouch-pork)
 - [99 Ranch Market - TOMAX RICE POWDER CHILI](https://fresh.99ranch.com/products/tomax-rice-powder-chili)
+
+## :soap: Cleaning
+
+- [99 Ranch Market - Crystal Soap Detergent Lemongrass](https://www.99ranch.com/product-details/2074764/8899/4710060006053)
+- [99 Ranch Market - Crystal Soap Detergent Blossom & Lily](https://www.99ranch.com/product-details/2074766/8899/4710060007494)
+- [99 Ranch Market - Crystal Soap Dish Wash Liquid](https://www.99ranch.com/product-details/2074763/8899/4710060006060)
